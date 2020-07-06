@@ -869,3 +869,1487 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.06-09.17.13:210][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.07.06-09.17.13:213][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
 [2020.07.06-09.17.13:262][638]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.07.06-09.20.52:726][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.06-09.21.06:251][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.06-09.21.19:038][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.06-09.21.28:156][338]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.06-09.21.31:427][338]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.06-09.21.36:725][956]LogSlate: Took 0.001395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.07.06-09.21.58:982][623]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/RayGun.RayGun
+[2020.07.06-09.21.59:212][623]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.07.06-09.21.59:926][624]LogRenderer: Reallocating scene render targets to support 1068x624 Format 10 NumSamples 1 (Frame:1).
+[2020.07.06-09.22.27:319][891]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.07.06-09.22.30:490][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.06-09.22.33:718][637]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.07.06-09.22.33:974][637]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.06-09.22.34:052][638]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.06-09.23.57:716][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.06-09.24.37:243][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.06-09.24.58:812][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.06-09.24.59:008][720]LogSavePackage: Moving '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Saved/ThirdPersonCharacterD8B87B28433CA732E455639D7535EFDC.tmp' to '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.07.06-09.24.59:432][762]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.07.06-09.24.59:668][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.07.06-09.25.14:679][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.06-09.27.10:727][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.06-09.27.10:737][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.27.10:737][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.06-09.27.10:737][ 96]PIE: New page: PIE session: ThirdPersonExampleMap (2020年7月7日 上午1:27:10)
+[2020.07.06-09.27.10:737][ 96]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.06-09.27.10:749][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011765s)
+[2020.07.06-09.27.10:750][ 96]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.06-09.27.10:750][ 96]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2020.07.06-09.27.10:751][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013069s)
+[2020.07.06-09.27.10:808][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.07.06-09.27.10:824][ 96]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.06-09.27.10:842][ 96]LogInit: FAudioDevice initialized.
+[2020.07.06-09.27.10:868][ 96]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.07.06-09.27.10:870][ 96]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.07.06-17.27.10
+[2020.07.06-09.27.10:870][ 96]LogWorld: Bringing up level for play took: 0.001470
+[2020.07.06-09.27.10:883][ 96]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.644
+[2020.07.06-09.27.10:884][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.27.22:765][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.06-09.27.24:061][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.27.24:061][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-09.27.24:089][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.06-09.27.24:090][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.27.24:121][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-09.27.24:125][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.07.06-09.27.24:168][671]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.07.06-09.27.29:507][304]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.07.06-09.27.30:451][304]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.07.06-09.27.57:856][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.07.06-09.27.58:026][531]LogSavePackage: Moving '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Saved/ThirdPersonExampleMap_Auto1B66D490241FB96706B99BC83093C60E3.tmp' to '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.07.06-09.27.58:028][531]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.220
+[2020.07.06-09.27.58:028][531]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.220
+[2020.07.06-09.27.58:030][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RayGun] ([1] browsable assets)...
+[2020.07.06-09.27.58:030][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RayGun]
+[2020.07.06-09.27.58:039][531]LogSavePackage: Moving '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Saved/RayGun_Auto14C4B610E4C54AB9E4FCDBB8FCF01DBC7.tmp' to '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Saved/Autosaves/Game/Blueprints/RayGun_Auto1.uasset'
+[2020.07.06-09.27.58:039][531]LogFileHelpers: Auto-saving content packages took 0.010
+[2020.07.06-09.28.42:214][792]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.06-09.28.42:218][792]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.06-09.28.43:450][937]LogLinker: Warning: Can't find file '/Game/Blueprints/BP_Player'
+[2020.07.06-09.28.43:450][937]LogLinker: Warning: Can't find file '/Game/Blueprints/BP_Player'
+[2020.07.06-09.28.43:450][937]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/BP_Player.BP_Player'
+[2020.07.06-09.29.58:742][626]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.07.06-09.29.58:930][626]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.07.06-09.29.59:505][676]LogSavePackage: Moving '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Saved/ThirdPersonCharacter70AED0DD4903306D39F86D9EA869D169.tmp' to '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.07.06-09.30.01:228][876]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.06-09.30.01:242][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.30.01:242][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.06-09.30.01:242][876]PIE: New page: PIE session: ThirdPersonExampleMap (2020年7月7日 上午1:30:01)
+[2020.07.06-09.30.01:242][876]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.06-09.30.01:253][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010559s)
+[2020.07.06-09.30.01:254][876]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.06-09.30.01:254][876]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2020.07.06-09.30.01:254][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011504s)
+[2020.07.06-09.30.01:286][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.07.06-09.30.01:299][876]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.06-09.30.01:316][876]LogInit: FAudioDevice initialized.
+[2020.07.06-09.30.01:341][876]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.07.06-09.30.01:343][876]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.07.06-17.30.01
+[2020.07.06-09.30.01:343][876]LogWorld: Bringing up level for play took: 0.001304
+[2020.07.06-09.30.01:355][876]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.138
+[2020.07.06-09.30.01:356][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.30.01:356][876]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:385][876]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '處 (U+8655)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.07.06-09.30.01:421][877]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:429][878]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:438][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:446][880]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:454][881]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:463][882]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:471][883]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:479][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:488][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:496][886]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:505][887]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:513][888]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:521][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:530][890]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:538][891]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:546][892]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:554][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:563][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:570][895]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:579][896]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:587][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:595][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:604][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:612][900]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:620][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:629][902]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:637][903]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:646][904]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:654][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:662][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:671][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:679][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:687][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:696][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:704][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:712][912]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:721][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:729][914]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:737][915]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:746][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:754][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:762][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:771][919]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:779][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:788][921]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:796][922]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:804][923]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:813][924]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:821][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:830][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:838][927]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:847][928]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:855][929]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:863][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:872][931]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:880][932]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:888][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:897][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:905][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:912][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:921][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:929][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:937][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:946][940]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:954][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:962][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:971][943]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:979][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:987][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.01:996][946]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:004][947]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:013][948]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:021][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:029][950]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:038][951]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:046][952]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:054][953]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:063][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:071][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:079][956]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:088][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:096][958]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:104][959]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:113][960]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:121][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:130][962]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:138][963]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:146][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:155][965]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:163][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:171][967]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:180][968]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:188][969]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:196][970]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:205][971]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:213][972]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:222][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:231][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:239][975]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:248][976]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:256][977]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:263][978]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:271][979]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:280][980]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:288][981]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:296][982]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:305][983]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:313][984]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:321][985]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:330][986]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:338][987]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:346][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:355][989]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:363][990]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:372][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:380][992]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:388][993]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:397][994]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:405][995]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:413][996]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:422][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:430][998]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:438][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:447][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:455][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:464][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:472][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:480][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:489][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:497][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:506][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:514][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:523][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:531][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:539][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:548][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:556][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:564][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:573][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:581][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:590][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:598][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:605][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:614][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:622][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:630][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:639][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:647][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:655][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:664][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:673][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:681][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:689][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:698][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:706][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:715][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:723][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:731][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:739][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:748][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:756][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:764][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:773][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:781][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:790][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:798][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:806][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:815][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:823][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:831][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:839][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:848][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:856][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:865][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:873][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:881][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:890][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:898][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:906][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:915][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:923][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:931][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:940][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:948][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:956][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:965][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:973][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:981][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:990][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.02:998][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:007][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:015][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:023][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:032][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:039][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:047][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:056][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:064][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:072][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:081][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:089][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:097][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:106][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:114][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:123][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:131][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:139][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:148][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:157][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:164][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:173][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:181][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:189][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:198][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:206][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:214][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:223][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:231][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:240][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:248][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:256][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:265][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:273][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:281][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:290][101]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:298][102]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:307][103]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:315][104]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:323][105]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:332][106]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:340][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:348][108]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:357][109]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:365][110]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:373][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:382][112]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:389][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:398][114]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:406][115]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:414][116]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:423][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:431][118]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:439][119]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:448][120]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:456][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:464][122]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:473][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:481][124]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:489][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:498][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:506][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:515][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:523][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:532][130]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:540][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:548][132]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:557][133]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:565][134]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:573][135]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:582][136]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:590][137]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:598][138]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:607][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:615][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:624][141]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:632][142]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:640][143]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:649][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:657][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:665][146]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:674][147]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:682][148]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:691][149]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:699][150]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:708][151]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:716][152]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:724][153]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:731][154]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:740][155]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:748][156]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:756][157]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:765][158]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:773][159]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:781][160]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:790][161]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:798][162]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:806][163]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:815][164]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:823][165]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:831][166]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:840][167]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:848][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:857][169]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:865][170]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:873][171]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:882][172]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:890][173]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:898][174]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:907][175]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:915][176]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:924][177]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:932][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:940][179]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:949][180]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:957][181]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:965][182]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:974][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:982][184]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:990][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.03:999][186]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:007][187]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:015][188]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:024][189]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:032][190]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:040][191]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:049][192]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:057][193]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:066][194]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:074][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:081][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:090][197]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:098][198]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:106][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:115][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:124][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:133][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:141][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:149][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:158][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:166][206]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:174][207]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:183][208]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:191][209]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:200][210]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:208][211]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:216][212]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:224][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:233][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:241][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:249][216]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:258][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:266][218]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:274][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:282][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:291][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:299][222]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:308][223]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:316][224]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:324][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:333][226]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:341][227]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:349][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:358][229]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:366][230]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:374][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:383][232]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:391][233]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:399][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:408][235]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:416][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:424][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:433][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:442][239]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:450][240]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:458][241]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:466][242]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:474][243]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:482][244]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:491][245]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:499][246]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:507][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:516][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:524][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:533][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:542][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:551][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:559][253]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:568][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:576][255]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:584][256]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:593][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:601][258]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:609][259]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:618][260]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:625][261]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:634][262]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:642][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:651][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:659][265]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:668][266]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:676][267]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:684][268]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:692][269]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:701][270]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:709][271]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:718][272]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:726][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:734][274]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:743][275]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:751][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:760][277]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:768][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:776][279]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:785][280]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:793][281]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:800][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:809][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:817][284]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:826][285]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:834][286]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:842][287]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:851][288]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:859][289]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:868][290]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:876][291]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:884][292]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:892][293]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:901][294]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:909][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:917][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:926][297]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:934][298]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:942][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:951][300]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:959][301]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:968][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:976][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:984][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.04:993][305]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:001][306]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:010][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:018][308]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:026][309]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:035][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:043][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:051][312]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:060][313]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:068][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:076][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:085][316]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:093][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:102][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:110][319]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:118][320]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:127][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:135][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:143][323]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:151][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:159][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:168][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:176][327]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:184][328]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:193][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:201][330]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:210][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:218][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:226][333]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:235][334]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:243][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:251][336]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:260][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:268][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:276][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:285][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:293][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:301][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:310][343]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:318][344]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:326][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:335][346]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:343][347]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:351][348]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:360][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:368][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:377][351]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:385][352]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:393][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:402][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:410][355]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:418][356]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:427][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:435][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:443][359]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:452][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:460][361]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:468][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:477][363]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:485][364]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:493][365]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:501][366]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:509][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:518][368]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:526][369]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:534][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:543][371]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:551][372]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:559][373]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:568][374]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:576][375]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:585][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:593][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:601][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:610][379]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:618][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:626][381]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:635][382]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:643][383]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:651][384]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:660][385]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:668][386]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:676][387]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:685][388]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:693][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:701][390]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:710][391]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:718][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:726][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:735][394]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:743][395]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:752][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:760][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:768][398]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:777][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:785][400]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:793][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:802][402]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:810][403]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:819][404]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:827][405]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:835][406]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:844][407]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:852][408]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:860][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:869][410]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:877][411]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:885][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:893][413]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:901][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:909][415]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:918][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:926][417]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:934][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:943][419]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:951][420]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:959][421]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:968][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:976][423]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:985][424]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.05:993][425]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:001][426]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:010][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:018][428]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:026][429]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:035][430]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:043][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:051][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:060][433]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:068][434]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:076][435]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:085][436]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:093][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:101][438]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:110][439]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:118][440]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:126][441]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:135][442]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:143][443]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:151][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:160][445]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:168][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:177][447]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:185][448]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:193][449]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:202][450]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:210][451]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:218][452]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:227][453]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:235][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:243][455]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:252][456]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:260][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:268][458]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:277][459]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:284][460]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:292][461]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:301][462]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:309][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:318][464]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:326][465]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:334][466]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:343][467]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:351][468]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:359][469]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:368][470]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:376][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:384][472]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:393][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:401][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:409][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:418][476]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:426][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:435][478]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:443][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:452][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:461][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:469][482]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:478][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:486][484]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:494][485]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:503][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:511][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:519][488]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:528][489]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:536][490]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:545][491]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:553][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:561][493]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:570][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:578][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:586][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:595][497]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:603][498]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:611][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:620][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:628][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:636][502]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:644][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:652][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:661][505]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:669][506]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:677][507]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:686][508]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:694][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:703][510]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:711][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:719][512]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:727][513]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:736][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:744][515]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:752][516]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:761][517]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:769][518]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:778][519]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:786][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:794][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:803][522]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:811][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:819][524]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:828][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:836][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:844][527]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:853][528]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:861][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:870][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:878][531]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:886][532]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:895][533]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:903][534]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:911][535]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:920][536]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:928][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:936][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:945][539]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:953][540]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:961][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:970][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:978][543]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:985][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.06:994][545]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:002][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:011][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:019][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:027][549]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:036][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:044][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:052][552]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:061][553]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:069][554]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:078][555]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:086][556]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:095][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:103][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:111][559]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:120][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:128][561]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:137][562]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:145][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:153][564]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:162][565]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:170][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:178][567]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:187][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:195][569]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:204][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:212][571]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:220][572]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:229][573]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:237][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:245][575]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:254][576]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:262][577]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:271][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:279][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:287][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:295][581]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:304][582]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:312][583]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:320][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:328][585]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:336][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:345][587]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:353][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:361][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:370][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:378][591]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:386][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:395][593]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:403][594]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:412][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:420][596]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:428][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:437][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:445][599]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:453][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:462][601]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:470][602]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:479][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:487][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:496][605]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:504][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:512][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:520][608]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:529][609]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:537][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:545][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:554][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:562][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:571][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:579][615]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:587][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:596][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:604][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:612][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:621][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:629][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:638][622]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:646][623]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:654][624]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:662][625]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:670][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:679][627]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:687][628]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:696][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:704][630]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:713][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:721][632]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:729][633]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:738][634]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:746][635]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:754][636]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:763][637]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:771][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:779][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:788][640]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:796][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:804][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:813][643]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:821][644]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:829][645]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:838][646]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:846][647]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:854][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:862][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:870][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:879][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:887][652]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:895][653]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:904][654]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:912][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:920][656]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:929][657]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:937][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:945][659]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:954][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:962][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:971][662]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:979][663]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:987][664]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.07:996][665]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:004][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:012][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:021][668]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:029][669]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:037][670]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:046][671]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:054][672]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:062][673]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:071][674]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:079][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:087][676]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:096][677]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:104][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:113][679]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:121][680]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:129][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:138][682]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:146][683]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:154][684]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:163][685]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:171][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:180][687]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:188][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:196][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:205][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:212][691]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:221][692]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:229][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:237][694]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:246][695]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:254][696]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:262][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:271][698]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:279][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:287][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:296][701]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:304][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:312][703]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:321][704]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:329][705]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:338][706]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:346][707]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:354][708]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:363][709]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:371][710]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:379][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:388][712]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:396][713]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:404][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:413][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:421][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:429][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:438][718]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:446][719]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:454][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:463][721]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:471][722]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:480][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:488][724]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:496][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:505][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:513][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:522][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:530][729]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:538][730]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:547][731]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:555][732]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:562][733]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:571][734]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:579][735]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:587][736]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:596][737]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:604][738]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:613][739]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:621][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:629][741]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:638][742]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:646][743]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:654][744]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:663][745]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:671][746]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:679][747]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:688][748]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:696][749]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:705][750]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:713][751]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:721][752]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:730][753]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:738][754]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:746][755]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:755][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:763][757]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:772][758]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:780][759]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:788][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:797][761]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:805][762]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:813][763]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:822][764]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:830][765]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:838][766]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:847][767]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:855][768]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:863][769]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:871][770]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:879][771]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:887][772]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:896][773]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:904][774]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:912][775]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:921][776]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:929][777]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:938][778]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:946][779]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:954][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.06-09.30.08:955][780]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:963][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:971][782]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:979][783]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:988][784]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.08:996][785]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:004][786]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:013][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:021][788]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:029][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:038][790]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:046][791]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:055][792]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:063][793]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:071][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:079][795]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:088][796]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:096][797]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:104][798]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:113][799]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:121][800]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:129][801]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:138][802]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:146][803]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:154][804]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:163][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:171][806]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:179][807]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:187][808]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:196][809]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:204][810]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:213][811]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:221][812]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:229][813]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:237][814]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:246][815]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:254][816]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:263][817]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:271][818]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:280][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:288][820]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:296][821]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:305][822]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:313][823]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:322][824]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:330][825]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:338][826]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:347][827]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:354][828]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:362][829]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:371][830]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:379][831]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:387][832]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:396][833]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:404][834]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:413][835]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:421][836]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:429][837]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:438][838]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:446][839]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:454][840]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:463][841]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:471][842]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:479][843]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:488][844]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:496][845]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:504][846]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:513][847]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:521][848]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:530][849]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:538][850]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:546][851]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:555][852]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:563][853]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:571][854]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:580][855]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:588][856]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:597][857]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:605][858]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:613][859]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:622][860]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:630][861]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:638][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:647][863]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:655][864]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:663][865]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:672][866]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:680][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:689][868]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:696][869]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:704][870]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:712][871]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:721][872]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:729][873]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:738][874]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:746][875]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:754][876]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:763][877]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:771][878]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:779][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:788][880]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:796][881]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:805][882]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:813][883]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:822][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:831][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:839][886]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:847][887]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:856][888]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:864][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:872][890]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:881][891]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:889][892]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:897][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:906][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:914][895]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:922][896]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:931][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:939][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:947][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:956][900]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:964][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:973][902]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:981][903]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:989][904]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.09:998][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:006][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:015][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:023][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:031][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:040][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:047][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:055][912]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:064][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:072][914]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:080][915]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:089][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:097][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:106][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:114][919]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:123][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:131][921]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:139][922]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:147][923]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:156][924]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:164][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:172][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:181][927]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:189][928]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:197][929]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:207][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:216][931]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:225][932]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:233][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:242][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:251][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:258][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:267][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:275][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:283][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:291][940]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:300][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:308][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:316][943]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:325][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:333][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:341][946]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:350][947]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:358][948]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:366][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:375][950]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:384][951]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:392][952]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:400][953]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:409][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:417][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:425][956]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:434][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:442][958]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:451][959]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:459][960]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:466][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:475][962]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:483][963]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:491][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:500][965]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:508][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:516][967]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:525][968]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:533][969]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:541][970]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:550][971]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:558][972]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:566][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:575][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:583][975]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:591][976]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:600][977]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:608][978]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:617][979]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:625][980]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:633][981]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:642][982]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:650][983]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:658][984]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:667][985]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:675][986]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:683][987]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:691][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:700][989]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:708][990]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:716][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:725][992]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:733][993]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:742][994]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:750][995]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:758][996]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:766][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:775][998]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:783][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:917][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.10:918][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.30.10:918][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-09.30.10:952][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.06-09.30.10:953][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.30.10:987][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-09.30.10:991][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.07.06-09.30.11:018][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.07.06-09.30.12:540][199]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.06-09.30.12:547][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.30.12:547][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.06-09.30.12:547][199]PIE: New page: PIE session: ThirdPersonExampleMap (2020年7月7日 上午1:30:12)
+[2020.07.06-09.30.12:548][199]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.06-09.30.12:558][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010425s)
+[2020.07.06-09.30.12:559][199]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.06-09.30.12:559][199]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2020.07.06-09.30.12:559][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011445s)
+[2020.07.06-09.30.12:588][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.06-09.30.12:599][199]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.06-09.30.12:613][199]LogInit: FAudioDevice initialized.
+[2020.07.06-09.30.12:642][199]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.07.06-09.30.12:646][199]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.07.06-17.30.12
+[2020.07.06-09.30.12:647][199]LogWorld: Bringing up level for play took: 0.003242
+[2020.07.06-09.30.12:660][199]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.831
+[2020.07.06-09.30.12:661][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.30.12:661][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:723][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:731][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:739][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:748][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:756][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:764][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:773][206]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:784][207]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:792][208]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:800][209]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:808][210]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:817][211]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:824][212]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:833][213]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:841][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:849][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:858][216]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:866][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:874][218]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:883][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:891][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:899][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:908][222]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:917][223]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:925][224]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:933][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:942][226]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:950][227]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:958][228]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:967][229]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:975][230]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:983][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:992][232]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.12:999][233]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:008][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:016][235]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:024][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:033][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:041][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:049][239]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:058][240]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:066][241]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:074][242]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:083][243]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:091][244]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:099][245]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:108][246]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:116][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:124][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:133][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:141][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:150][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:158][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:166][253]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:175][254]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:183][255]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:191][256]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:200][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:208][258]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:216][259]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:225][260]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:233][261]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:242][262]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:250][263]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:258][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:267][265]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:275][266]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:283][267]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:292][268]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:300][269]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:308][270]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:317][271]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:325][272]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:333][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:342][274]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:349][275]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:358][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:366][277]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:374][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:383][279]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:391][280]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:399][281]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:408][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:416][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:424][284]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:517][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:525][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:533][297]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:541][298]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:550][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:558][300]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:566][301]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:575][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:583][303]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:591][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:600][305]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:610][306]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:618][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:627][308]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:635][309]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:643][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:652][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:660][312]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:669][313]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:677][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:685][315]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:693][316]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:702][317]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:709][318]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:717][319]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:726][320]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:734][321]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:742][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:751][323]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:759][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:768][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:776][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:785][327]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:794][328]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:802][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:810][330]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:819][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:827][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:836][333]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:844][334]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:852][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:861][336]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:869][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:877][338]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:886][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:894][340]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:903][341]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:911][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:919][343]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:927][344]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:936][345]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:944][346]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:952][347]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:961][348]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:970][349]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:978][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:986][351]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.13:995][352]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:003][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:011][354]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:020][355]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:028][356]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:036][357]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:045][358]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:052][359]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:060][360]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:069][361]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:077][362]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:086][363]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:094][364]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:102][365]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:111][366]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:119][367]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:127][368]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:136][369]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:144][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:152][371]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:228][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.30.14:228][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.30.14:229][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-09.30.14:262][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.06-09.30.14:262][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.30.14:298][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-09.30.14:301][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.07.06-09.30.14:327][382]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.07.06-09.32.10:168][575]LogSavePackage: Moving '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Saved/ThirdPersonCharacter46873D274BFDCF799159BDBD46C4698E.tmp' to '../../../../../../Users/travis.wang/Documents/git/Unreal side project/TermProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.07.06-09.32.10:549][615]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.07.06-09.32.10:736][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.07.06-09.32.21:661][917]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.06-09.32.21:675][917]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.32.21:676][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.06-09.32.21:676][917]PIE: New page: PIE session: ThirdPersonExampleMap (2020年7月7日 上午1:32:21)
+[2020.07.06-09.32.21:676][917]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.07.06-09.32.21:685][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009372s)
+[2020.07.06-09.32.21:686][917]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.07.06-09.32.21:686][917]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2020.07.06-09.32.21:686][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010265s)
+[2020.07.06-09.32.21:754][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.07.06-09.32.21:768][917]LogInit: XAudio2 using '喇叭 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.06-09.32.21:784][917]LogInit: FAudioDevice initialized.
+[2020.07.06-09.32.21:817][917]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.07.06-09.32.21:819][917]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.07.06-17.32.21
+[2020.07.06-09.32.21:819][917]LogWorld: Bringing up level for play took: 0.001512
+[2020.07.06-09.32.21:832][917]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.363
+[2020.07.06-09.32.21:832][917]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.32.22:528][996]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:536][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:543][998]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:551][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:560][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:568][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:576][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:585][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:593][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:601][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:610][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:618][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:626][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:635][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:643][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:652][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.22:660][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.23:602][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.23:610][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.23:618][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.23:627][128]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.23:635][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.23:643][130]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.23:652][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.23:660][132]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.23:668][133]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:203][197]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:210][198]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:219][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:227][200]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:236][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:244][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:252][203]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:261][204]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:269][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:603][245]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:611][246]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:618][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:627][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:635][249]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:644][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:652][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:660][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:953][287]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:960][288]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:969][289]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:977][290]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:985][291]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.24:994][292]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.25:002][293]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.25:010][294]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 處理射擊
+[2020.07.06-09.32.26:310][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.06-09.32.27:513][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.32.27:513][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-09.32.27:541][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.06-09.32.27:542][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.07.06-09.32.27:573][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-09.32.27:576][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.07.06-09.32.27:619][598]LogPlayLevel: Display: Destroying online subsystem :Context_11
