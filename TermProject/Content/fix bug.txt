@@ -1,0 +1,5 @@
+Eneny will dead after player win the game.
+
+The Bug is in the BP_UImanager-> Update UI Counter.
+
+Forget to link the Enemy to Updater Counter Text.
